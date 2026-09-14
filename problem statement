@@ -1,0 +1,23 @@
+Managing hospital operations manually often leads to inefficiencies, errors, and delays in patient care. Hospitals deal with large volumes of data related to patients, doctors, and appointments, which becomes difficult to track and organize without a proper system.
+
+Currently, many hospitals rely on paper records or basic spreadsheets, which can cause:
+
+Difficulty in retrieving patient history quickly.
+
+Mismanagement of doctor schedules and appointments.
+
+Lack of centralized data storage for patients and doctors.
+
+Increased chances of human error in record keeping.
+
+To address these challenges, there is a need for a Hospital Management System that can:
+
+Store and manage patient details (ID, name, age, disease).
+
+Maintain doctor records (ID, name, specialization).
+
+Facilitate booking and tracking of appointments between patients and doctors.
+
+Provide quick access to all records through a user-friendly interface.
+
+This system will improve efficiency, reduce errors, and ensure better coordination between patients and doctors, ultimately enhancing the quality of healthcare services.
